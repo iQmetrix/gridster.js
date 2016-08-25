@@ -1,0 +1,14 @@
+{
+  "name": "gridster.js",
+  "homepage": "https://github.com/iQmetrix/gridster.js",
+  "version": "0.5.8",
+  "_release": "0.5.8",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.5.8",
+    "commit": "bd9c95f946df2aa38c325f0c6d87af7ec52de763"
+  },
+  "_source": "git@github.com:iQmetrix/gridster.js.git",
+  "_target": "0.5.8",
+  "_originalSource": "git@github.com:iQmetrix/gridster.js.git"
+}

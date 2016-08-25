@@ -3079,7 +3079,7 @@
 
         this.cols = Math.max(min_cols, cols, this.options.min_cols);
 
-        if (max_cols !== Infinity && max_cols >= min_cols && max_cols < this.cols) {
+        if (max_cols !== Infinity) {
             this.cols = max_cols;
         }
 

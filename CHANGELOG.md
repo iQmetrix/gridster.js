@@ -1,3 +1,11 @@
+<a name="v0.5.8"></a>
+### v0.5.8 (2015-04-16)
+jquery.draggable now takes a "window" option that specifies the scrollable div in the application if it's not "window"
+
+<a name="v0.5.7"></a>
+### v0.5.7 (2015-01-09)
+losen up column calculation logic, to achieve some small screen responsiveness
+
 <a name="v0.5.6"></a>
 ### v0.5.6 (2014-09-25)
 
